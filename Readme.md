@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи»
 
 * Студент: [Eugene Chepkasov](https://up.htmlacademy.ru/adaptive/29/user/2306205).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Миронов`(https://htmlacademy.ru/profile/id1336881).
 
 ---
 
